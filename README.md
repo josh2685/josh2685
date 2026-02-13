@@ -31,5 +31,19 @@ My focus areas include web vulnerabilities, reconnaissance techniques, and adver
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josh2685&show_icons=true&theme=merko" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josh2685&layout=compact&theme=merko" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=josh2685&theme=merko" />
+</p>
+
 
 
