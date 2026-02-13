@@ -1,7 +1,6 @@
 <h1 align="center">CTF Player | Offensive Security Learner</h1>
 
-Hi, I'm Josh
-Aspiring Cybersecurity Analyst focused on offensive security and practical skill development.
+I'm an Aspiring Cybersecurity Analyst focused on offensive security and practical skill development.
 
 I am an offensive security learner actively developing skills through CTF competitions and hands-on practice.
 
