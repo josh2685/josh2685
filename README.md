@@ -10,7 +10,7 @@ My focus areas include web vulnerabilities, reconnaissance techniques, and adver
 - Web application vulnerabilities
 - Reconnaissance and information gathering
 - CTF challenge solving and writeups
-- Strengthening foundational cybersecurity knowledge
+- Strengthening foundational cybersecurity and IT knowledge
 
 ![CTF](https://img.shields.io/badge/Focus-CTF-blue)
 ![Web Security](https://img.shields.io/badge/Web-Vulnerabilities-red)
@@ -28,4 +28,7 @@ My focus areas include web vulnerabilities, reconnaissance techniques, and adver
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
